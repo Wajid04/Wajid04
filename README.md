@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @Wajid04
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in App development,Web Development,Video Editing
+- 🌱 I’m currently learning MERN STACK and WEB3 
+- 💞️ I’m looking to collaborate on WEB3 and MERN Stack
+- Currently working in a Blockchan based Startup
 
-<!---
-Wajid04/Wajid04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr/>
+
+###SKILLS
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,git,github,java,mongodb,mysql,nextjs,react,nodejs)](https://skillicons.dev)
+
+<hr/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wajid04&theme=nord_dark)
