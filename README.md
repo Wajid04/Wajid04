@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Wajid04
-- 👀 I’m interested in App development,Web Development,Video Editing
-- 🌱 I’m currently learning MERN STACK and WEB3 
+- 👀 I’m interested in App development,Web Development,BlockChain Development,Video Editing
 - 💞️ I’m looking to collaborate on WEB3 and MERN Stack
-- Currently working in a Blockchan based Startup
+- Currently working in a Blockchan based Startup as its CTO
 -https://www.rayschain.com/
 
 <hr/>
