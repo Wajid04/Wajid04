@@ -12,4 +12,3 @@
 
 <hr/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wajid04&theme=nord_dark)
